@@ -1,0 +1,12 @@
+{
+	"File_paths":{
+		"input":"/mnt/ris-fas1a/linux_groups2/baillie_grp/diseasenet/evan/new_input/",
+		"output":"/mnt/ris-fas1a/linux_groups2/baillie_grp/diseasenet/evan/output/",
+		"ldsc":"/mnt/ris-fas1a/linux_groups2/baillie_grp/diseasenet/evan/scripts/ldsc-master/",
+		"reference":"/mnt/ris-fas1a/linux_groups2/baillie_grp/diseasenet/evan/Data/reference/"
+	},
+	"Slack_env":{
+		"address":"xoxp-56103715248-56114624145-154905509446-72c754c99fabcd5e9e1772648f3ee7c4",
+		"user":"@evan"
+	}
+}

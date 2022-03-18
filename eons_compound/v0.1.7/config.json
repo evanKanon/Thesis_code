@@ -1,0 +1,14 @@
+{
+	"File_paths":{
+		"input":"",
+		"output":"/mnt/d/PhD/Results/",
+		"classfile" : "",
+		"pathtomcl" : "~/src/mcl-14-137/bin/",
+		"pathtomcx" : "~/src/mcl-14-137/bin/",
+		"pathtomcxload" : "~/src/mcl-14-137/bin/"
+	},
+	"Slack_env":{
+		"address":"xoxp-56103715248-56114624145-154905509446-72c754c99fabcd5e9e1772648f3ee7c4",
+		"user1":"@evan"
+	}
+}
