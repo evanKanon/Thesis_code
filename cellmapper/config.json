@@ -1,0 +1,16 @@
+{
+	"File_paths":{
+		"input":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/data/",
+		"map_file":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/data/nozeros_phase2_nopooled.expression",
+		"output":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/output/",
+		"ann_file":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/data/Henderson_full_liver_tissue_cleansed_annotation.csv",
+		"map_annot":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/data/METADATA_SYNC015",
+		"map_coord":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/data/fantom5_sample_corrmatrix_5NN_xyz.txt",
+		"corr_file":"/mnt/ris-fas1a/linux_groups2/baillie_grp/singlecell/fantom5_sample_corrmatrix.csv"
+	},
+	"Slack_env":{
+		"address":"xoxp-56103715248-56114624145-154905509446-72c754c99fabcd5e9e1772648f3ee7c4",
+		"user1":"@evan",
+		"user2":"@kenny"
+	}
+}

@@ -1,0 +1,23 @@
+nohup: ignoring input
+../../../scripts/prep scripts/Identifier_converter/identifier_converter.py:88: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dat['Gene_names'][i]='ERROR_CHECK'
+../../../scripts/prep scripts/Identifier_converter/identifier_converter.py:84: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dat['Gene_names'][i]=symb
+Traceback (most recent call last):
+  File "../../../scripts/prep scripts/Identifier_converter/identifier_converter.py", line 94, in <module>
+    df=df.drop(columns=['index'])
+  File "/mnt/ris-fas1a/linux_groups2/baillie_grp/eons/environments/eons_environment/lib/python2.7/site-packages/pandas/core/frame.py", line 3697, in drop
+    errors=errors)
+  File "/mnt/ris-fas1a/linux_groups2/baillie_grp/eons/environments/eons_environment/lib/python2.7/site-packages/pandas/core/generic.py", line 3111, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/mnt/ris-fas1a/linux_groups2/baillie_grp/eons/environments/eons_environment/lib/python2.7/site-packages/pandas/core/generic.py", line 3143, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/mnt/ris-fas1a/linux_groups2/baillie_grp/eons/environments/eons_environment/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 4404, in drop
+    '{} not found in axis'.format(labels[mask]))
+KeyError: "['index'] not found in axis"
